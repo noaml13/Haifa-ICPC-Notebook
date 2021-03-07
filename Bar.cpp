@@ -65,7 +65,7 @@ int32_t main(){
     return 0;
 }
 
-/
+/*
 cls
 g++ a.cpp -o a -D_GLIBCXX_DEBUG & a
 4
